@@ -1,1 +1,1 @@
-# COAWST-ROMS-OPA
+Oil-Particle-Aggregate module (OPAMOD)
