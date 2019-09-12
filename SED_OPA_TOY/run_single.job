@@ -1,0 +1,12 @@
+#!/bin/tcsh
+#PBS -N OPA
+#PBS -l nodes=1:potomac:ppn=1
+#PBS -l walltime=10:00:00
+#PBS -j oe
+
+setenv PBS_O_WORKDIR /ches/data10/VIMSMPC/lcui/CSOMIO/SED_OPA_TOY
+cd $PBS_O_WORKDIR
+
+./coawstS <ocean_cb_toy_NGOM.in >& out.log
+
+exit 0
