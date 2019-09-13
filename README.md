@@ -1,4 +1,4 @@
-Oil-Particle-Aggregate module (OPAMOD)
+Oil-Particle-Aggregate module (OPAMOD) \n
 Courtney K Harris ckharris.@vims.edu 
 Linlin Cui lcui@vims.edu
 Virginia Institute of Marine Sciences
