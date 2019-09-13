@@ -8,5 +8,8 @@ Virginia Institute of Marine Sciences
 OPAMOD is based on an existing, population dynamics-based flocculation model (FLOCMOD) in ROMS to account for the formation of OPAs. It was coupled with an oil plume model (https://github.com/DmitryDukh/COAWST-ROMS-OIL) to retrieve oil properties from Eulerian coordinates.
 
 The main part of OPAMOD are two subroutines in ROMS/Nonlinear/Sediment:
- -sed_opa.F
- -sedopa_mod.h
+-sed_opa.F
+-sedopa_mod.h
+
+At this time, trunk is not updated to the latest version of Dmitry's oil model (as Septempber 4, 2019).
+
